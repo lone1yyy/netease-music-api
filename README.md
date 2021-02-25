@@ -1,4 +1,4 @@
-# net-ease-api
+# net-ease-music-api
 网易云音乐api service rust+actix-web
 
 
